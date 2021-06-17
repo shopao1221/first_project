@@ -307,7 +307,7 @@
         <div class="row">
           <div class="col-sm-4" style="padding-left: 5rem;">
               <div class="alert alert-primary" role="alert" style="border-radius: 1.3rem;background-color: #49AA41;">
-              <h1 style="padding-left: 4rem;font-weight: lighter;font-size: 4rem;color: white;">95%</h1>
+              <h1 style="padding-left: 4rem;font-weight: lighter;font-size: 4rem;color: white;">100%</h1>
                   <h1 style="padding-left: .9rem;font-size: .8rem;color: white;margin-bottom:0;">of patients want to be  healed of</h1>
                   <h1 style="padding-left: 2.8rem;color: white;margin-bottom:0;">all skin</h1>
                   <h1 style="padding-left: 3rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">detects*</h1>
