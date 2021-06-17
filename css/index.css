@@ -1,0 +1,145 @@
+.top-nav{
+    padding-right: 0;
+    padding-left: 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+}
+.nav-menus{
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.navbar-light .nav-menus .nav-link {
+    padding: 20px;
+}
+.navbar-light .nav-menus .nav-link:hover {
+    color: lightgreen;
+}
+.hands{
+    height: 100%;
+    width: 100%;
+}
+.lead{
+    color: rgba(86, 166, 81);
+    font-size: 1.15rem;
+}
+.com{
+    color: green;
+    font-size: 5rem;
+    font-weight: lighter;
+}
+.desk{
+    color: rgba(86, 166, 81);
+    text-align: justify;
+}
+.jumbotron{
+    background-color: white;
+}
+.logo{
+    color: black;
+}
+.inter{
+    font-size: 1rem;
+    font-weight: 600;
+    padding-left: 11rem;
+    color:#435464;
+}
+
+
+
+  
+ 
+
+/* modal REFERENCE*/
+.mod-head{
+    background-color: #435464;
+    border-top-left-radius: calc(2rem );
+    border-top-right-radius: calc(2rem);
+}
+.mod-title{
+    color: white;
+}
+.mod-content{
+    border-radius: 2rem;
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
+}
+.card-body{
+    box-shadow: inset 0px 0px 5px 5px rgb(0 0 0 / 10%);
+}
+.titles{
+    color: #315F6F;
+    padding-left: 2.4rem;
+}
+.c-hr{
+    margin-left: 2.4rem;
+    height: 2.4px;
+    border-width: 0;
+    background-color: #A4D4A2;
+}
+.c-hrs{
+    
+    height: 2.4px;
+    border-width: 0;
+    background-color: #A4D4A2;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: #49A945;
+    font-size: .6rem;
+}
+
+.list-unstyled{
+    font-size: larger;
+    font-weight: 600;
+    color: #315F6F;
+}
+
+/* modal PERCENTAGE*/
+.mods-head{
+    background-color: #49AA41;
+}
+
+/* slider modal */
+/* .modal.left .modal-dialog {
+    position: fixed;
+    left:0;
+    margin: auto;
+    width: 280px;
+    height: 100%;
+    transform: translate3d(0%, 0, 0);
+}
+
+.modal.left .modal-content {
+    height: 100%;
+    overflow-y: auto;
+}
+.modal.left .modal-body{
+    height: 400px;
+    overflow-y: auto;
+}
+.modal-content {
+    border-radius: 0;
+    border: none;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+.modal-footer{
+border-top:none;
+}
+.a-color{
+    color: #57585a;
+    text-transform: uppercase;
+
+}
+.a-color:hover {
+    color: lightgreen;
+    text-decoration: none;
+} */
