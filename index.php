@@ -7,68 +7,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;400;500;600&display=swap" rel="stylesheet"> 
     <title>Document</title>
 </head>
 <body>
 
 
-        <!------------------------ NavigationBar --------------------------->
         
-        <!-- <div class="d-none  d-lg-block"> -->
-<div class="container-fluid top-nav">
-
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <!-- <a class="navbar-brand" href="#"><img src="image/logo.png" alt="" style="height: 100%;
-    width: 150px;"></a> -->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav nav-menus">
-      <li class="nav-item">
-        <a class="nav-link" href="#">STUDY DESIGN</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#"  data-toggle="modal" data-target="#exampleModal">REFERENCES</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">IMPORTANT SAFETY IMPORMATION</a>
-      </li>
-
-    </ul>
-  </div>
-</nav>
-
-
-
-</div>
-<!-- </div> -->
-
-
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl" style="padding-top:150px;">
-    <div class="modal-content" style="border-radius:2rem;">
-      <div class="modal-header mod-head">
-        <h5 class="modal-title mod-title" id="exampleModalLabel">REFERENCES</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true" style="color:white;">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <ul style="list-style-type:none;padding: 0 0 0 20px; margin: 0;">
-          <li class="p-3">
-              <p class="mb-0" style="color: #435464;">1. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati enim reiciendis optio ex commodi consectetur molestias libero quae sed officiis amet voluptates quis itaque culpa necessitatibus, eius aspernatur, doloribus tempora.</p>
-          </li>
-          <li class="p-3">
-          <p class="mb-0" style="color: #435464;">2. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati enim reiciendis optio ex commodi consectetur molestias libero quae sed officiis amet voluptates quis itaque culpa necessitatibus, eius aspernatur, doloribus tempora.</p>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
 
         <!-- mobile view -->
         <!-- <div class="d-sm-block d-md-none">   
@@ -120,38 +65,7 @@
 
         
 
-<!------------------------ Header --------------------------->
-<div class="container">
 
-<div class="jumbotron p-0" style="background-color: transparent;">
-<div class="row">
-    
-    <div class="col-sm-12 col-md-7 col-lg-7" style="padding-top:5rem;">
-    <h1 class="display-4 logo"><img src="image/logo.png" alt="" style="height:100px;"></h1>
-      <p class="lead mb-0"><strong style="color:green;">XEKIZUMAB (TALITZ)  </strong>  - A TARGET IL-17 A INHIBITOR WITH HIGH BINDING FAMILY</p>
-        <p class="com">COMPLETELY <br> CLEAR SKIN</p>
-      <!-- <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Continue reading...</a></p> -->
-    </div>
-    
-    <div class="col-sm-6 col-md-5 offset-md-2 col-lg-5 offset-lg-0">
-    <img class="hands" src="image/hand.png" alt="">
-    </div>
-
-    <div class="col-sm-12">
-    <p class="mb-0 pt-0 desk">IXEKIZUMAB (TALITZ) is the indicated for a treatment of moderate to severe plaque psoriasis in adults who are candidates for systematic theraphy .2 IXEKIZUMAB (TALITZ), alone or in combination with methotrexate, is indicated for the treatment of active psoriasis arthritisin adult patiets who have responded inadiquetly to, or who are intolerant to one or more disease modifying anti-rhuematic drug (DMARD) therapist (see section 6.1)2.</p>   
-    </div>  
-
-  </div>
-</div>
-</div>
-
-
-<div class="container-fluid mb-5">
-  <div class="row">
-    <div class="col-sm-6" ><p class="inter">IL-interluekin</p></div>
-    <div class="col-sm-6" style="padding-left: 30rem;"><img src="image/lilys.png" alt="" style="width:50%;"> <br> <p style="font-size: 1.1rem;font-weight: 600;color: #435464;">PH-ELI-TAL-OTH-HCP-0576-V1</p></div>
-  </div>
-</div>
 
 
 
@@ -224,13 +138,55 @@
 </div>
 
 
+<!-- <div class="container-fluid" style="background-image: url('image/patient.jpg');height: 100vh;background-repeat: no-repeat;background-position: right;">
 
 
 
-<div class="container mt-5">
+</div> -->
+
+
+
+
+
+<div class="container-fluid mt-5">
+  <div class="row">
+    <div class="col-sm-3">
+    <div class="alert alert-primary" role="alert" style="background-color: #49AA41; border-radius: 2rem;">
+                    <button class="p-0" type="button" data-toggle="modal" data-target="#exampleModal1" style="border:none; position: absolute;background: #425560;height: 2rem;width: 2rem;top: .2rem;right: -0.5rem;border-radius: 100%;">
+                    <i class="fas fa-plus" style="color: white;font-size: 1rem;"></i>
+                      </button>
+                  <h1 style="padding-left: 4rem;font-weight: lighter;font-size: 4rem;color: white;">95%</h1>
+                  <h1 style="padding-left: .9rem;font-size: .8rem;color: white;margin-bottom:0;">of patients want to be  healed of</h1>
+                  <h1 style="padding-left: 2.8rem;color: white;margin-bottom:0;">all skin</h1>
+                  <h1 style="padding-left: 3rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">detects*</h1>
+                </div>
+    </div>
+    <div class="col-sm-3">
+                <div class="alert alert-primary" role="alert" style="background-color: #164614; border-radius: 2rem;">
+                  <button class="p-0" type="button" data-toggle="modal" data-target="#exampleModal2" style="border:none; position: absolute;background: #425560;height: 2rem;width: 2rem;top: .2rem;right: -0.5rem;border-radius: 100%;">
+                        <i class="fas fa-plus" style="color: white;font-size: 1rem;"></i>
+                  </button>
+                  <h1 style="padding-left: 4rem;font-weight: lighter;font-size: 4rem;color: white;">95%</h1>
+                  <h1 style="padding-left: 4rem;font-size: .8rem;color: white;margin-bottom:0;">of patients want</h1>
+                  <h1 style="padding-left: .8rem;color: white;margin-bottom:0;">better skin</h1>
+                  <h1 style="padding-left: 3rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">quickly*</h1>
+                </div>
+    </div>
+    <div class="col-md-6">
+    <img src="image/patients.jpg" alt="" style="height: 100%;width: 100%;">
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- <div class="container-fluid mt-5">
    
         <div class="row">
-              <div class="col-md-3">
+
+
+              <div class="col-md-3" style="padding-left: 3rem;padding-right: 3rem;padding-top: 10rem;">
              
                 <div class="alert alert-primary" role="alert" style="background-color: #49AA41; border-radius: 2rem;">
                     <button class="p-0" type="button" data-toggle="modal" data-target="#exampleModal1" style="border:none; position: absolute;background: #425560;height: 2rem;width: 2rem;top: .2rem;right: -0.5rem;border-radius: 100%;">
@@ -242,7 +198,7 @@
                   <h1 style="padding-left: 3rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">detects*</h1>
                 </div>
               </div>
-              <div class="col">
+              <div class="col-md-3" style="padding-left: 3rem;padding-right: 3rem;padding-top: 10rem;">
               <div class="alert alert-primary" role="alert" style="background-color: #164614; border-radius: 2rem;">
                   <button class="p-0" type="button" data-toggle="modal" data-target="#exampleModal2" style="border:none; position: absolute;background: #425560;height: 2rem;width: 2rem;top: .2rem;right: -0.5rem;border-radius: 100%;">
                         <i class="fas fa-plus" style="color: white;font-size: 1rem;"></i>
@@ -255,11 +211,11 @@
               </div>
           
           <div class="col-md-6">
-            <img src="image/patient.jpg" alt="" style="height: 100%;width: 100%;margin-left: 7rem;">
+            <img src="image/patients.jpg" alt="" style="height: 100%;width: 100%;">
           </div>
        
         </div>
-</div>
+</div> -->
 
 <!-- Modal ONE-->
 <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -289,7 +245,7 @@
 
 <!-- Modal Two-->
 <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl" style="padding-top:150px;">
+  <div class="modal-dialog modal-xl" style="padding-top:60px;">
     <div class="modal-content" style="border-bottom-right-radius: calc(2rem);">
       <div class="modal-header mods-head">
        
@@ -300,31 +256,28 @@
       <div class="modal-body">
         <ul style="list-style-type:none;padding: 0 0 0 20px; margin: 0;">
           <li class="p-3">
-              <p class="mb-0" style="color: #435464; font-weight: 700;">*Percentage of patients stating goal is "Quite Important" or "Very important". <br> Online patient  survey of 500 adult participants with moderate to severe plaque psoriasis from United States.</p>
+              <p class="mb-0" style="color: #435464; font-weight: initial;font-size: 1.9rem;">Rapid onset is one of many factors important to psoriasis patients when considering a treatment change.</p>
           </li>      
         </ul>
-
+          <p style="padding-left: 40rem;font-size: 1.3rem;font-weight: 400;">Results from a patient survey<span style="font-size:1rem;">&#50;&#8225;</span></p>
         <div class="row">
-          <div class="col-sm-4" style="padding-left: 5rem;">
-              <div class="alert alert-primary" role="alert" style="border-radius: 1.3rem;background-color: #49AA41;">
-              <h1 style="padding-left: 4rem;font-weight: lighter;font-size: 4rem;color: white;">100%</h1>
-                  <h1 style="padding-left: .9rem;font-size: .8rem;color: white;margin-bottom:0;">of patients want to be  healed of</h1>
-                  <h1 style="padding-left: 2.8rem;color: white;margin-bottom:0;">all skin</h1>
-                  <h1 style="padding-left: 3rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">detects*</h1>
+          <div class="col-sm-5" style="padding-left: 5rem;">
+              <div class="alert alert-primary" role="alert" style="border-radius: 1.3rem;background-color: #49AA41;height: 18.9rem;">
+              <h1 style="padding-left: 6rem;font-weight: lighter;font-size: 6rem;color: white;">95%</h1>
+                  <h1 style="font-size: 1.4rem;color:white;margin-bottom:0;font-weight: lighter;padding-left: .9rem;">of patients want to be  healed of</h1>
+                  <h1 style="padding-left: 4.9rem;color: white;margin-bottom:0; font-size: 4rem;font-weight: 400;">all skin</h1>
+                  <h1 style="padding-left: 5rem;color: white;margin-bottom: 0;font-weight: 400;font-size: 2.2rem;">detects*</h1>
               </div>
            </div>
-         <div class="col-sm-8">
+         <div class="col-sm-7" style="padding-top: .6rem;">
           
-         <div class="card">
-            <div class="card-body">
-              This is some text within a card body.
+            <div class="alert alert-primary" role="alert" style="border-radius: 1.3rem;background-color: #49AA41;">
+                 <p style="font-size: 1.7rem;color:white;margin-bottom:0;font-weight: lighter;text-align: center;">How many days would you expect a systematic  psoriasis treatment to take in order to achieve completely clear skin?</p>       
             </div>
-          </div>
-          <div class="card">
-            <div class="card-body">
-              This is some text within a card body.
+
+            <div class="alert alert-primary" role="alert" style="border-radius: 1.3rem;background-color:#92C583;">
+            <h1 style="font-size: 4.5rem;color:white;margin-bottom:0;font-weight: normal;text-align: center;">34 days</h1>       
             </div>
-          </div>
 
 
 

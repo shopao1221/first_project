@@ -1,50 +1,48 @@
 
 <!-- for webview -->
 <?php echo'
-<div class="d-none  d-lg-block">
 <div class="container-fluid top-nav">
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">LOGO</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="#" style="margin-right:0;position: absolute;left: 75%;margin-left: -50px !important;"><img src="image/newlogo.jpg" alt="" style="height: 100%;width: 100%;padding-top: 4rem;padding-top: 4rem;transform: inherit;"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav nav-menus">
-      <a class="nav-link" href="#">STUDY DESIGN</span></a>
-      <a class="nav-link" href="#"  data-toggle="modal" data-target="#exampleModal">REFERENCES</a>
-      <a class="nav-link" href="#">IMPORTANT SAFETY IMPORMATION</a>
-    </div>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav nav-menus">
+      <li class="nav-item">
+        <a class="nav-link" href="#">STUDY DESIGN</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">REFERENCES</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">IMPORTANT SAFETY IMPORMATION</a>
+      </li>
+
+    </ul>
   </div>
 </nav>
+
 </div>
-</div>
 
 
+<div class="container-fluid pr-0 pl-0">
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl">
-    <div class="modal-content" style="border-radius:2rem;">
-      <div class="modal-header mod-head">
-        <h5 class="modal-title mod-title" id="exampleModalLabel">REFERENCES</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <ul style="list-style-type:none;padding: 0 0 0 20px; margin: 0;">
-          <li class="p-3">
-              <p class="mb-0" style="color: #435464;">1. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati enim reiciendis optio ex commodi consectetur molestias libero quae sed officiis amet voluptates quis itaque culpa necessitatibus, eius aspernatur, doloribus tempora.</p>
-          </li>
-          <li class="p-3">
-          <p class="mb-0" style="color: #435464;">2. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati enim reiciendis optio ex commodi consectetur molestias libero quae sed officiis amet voluptates quis itaque culpa necessitatibus, eius aspernatur, doloribus tempora.</p>
-          </li>
-        </ul>
-      </div>
+<div class="" style="border:none;position:none;">
+  <div class="card-body">
+  <div class="row">
+    <div class="col-7">
+      <p class="mb-0 pl-5" style="color: #B1BCC0;font-siza: 1.2rem;font-weight: 600;">BURDEN OF DISEASE: <span style="color: #465364;">Patient Expectations</span></p>
+      <p class="pl-5" style="color: #4BAB47;font-size: xx-large;">Who could be candidate for Ixekizumab (Taltz)?</p>
+    </div>
+    <div class="col-5">
+    
     </div>
   </div>
+  </div>
 </div>
-
+</div>
 
 
 
